@@ -7,5 +7,8 @@
  -ilya.salamatov.1992@mail.ru
  -tg: @EKB_ilya_salamatov
  
- ### Shortly about me:
+### Shortly about me:
  I am sociable and able to work in a team. Responsible, self-taught
+
+### Education:
+school, 11 classes
